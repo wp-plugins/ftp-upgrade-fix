@@ -6,7 +6,7 @@ Tested up to: 3.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-Fixes problems that prevent installing or upgrading WordPress, themes, and plugins on some Pure-FTPd server configurations.
+Fixes problems that prevent installing or upgrading WordPress, themes, and plugins on some FTP server configurations (typically Pure-FTPd).
 
 == Description ==
 
