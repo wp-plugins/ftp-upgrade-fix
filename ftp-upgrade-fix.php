@@ -2,7 +2,7 @@
 /*
 Plugin Name: FTP Upgrade Fix
 Plugin URI: http://johnford.is/fixing-errors-when-upgrading-wordpress-via-ftp/
-Description: Fixes problems that prevent installing or upgrading WordPress, themes, and plugins on some FTP server configurations (typically Pure-FTPd). A permanent patch is planned for WordPress 3.2 and this plugin should be obsolete after upgrading to that version. To get started: 1) Click the "Activate" link to the left of this description, 2) Upgrade WordPress, themes, or plugins through the WordPress admin.
+Description: Fixes problems that prevent installing or updating WordPress, themes, and plugins on some FTP server configurations (typically Pure-FTPd). A permanent patch is planned for WordPress 3.2 and this plugin should be obsolete after updating to that version. To get started: 1) Click the "Activate" link to the left of this description, 2) Update WordPress, themes, or plugins through the WordPress admin.
 Version: 1.0
 Author: John Ford
 Author URI: http://johnford.is/
